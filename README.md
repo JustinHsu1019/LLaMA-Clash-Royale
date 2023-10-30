@@ -1,2 +1,2 @@
 # LLaMA-Clash-Royale
-The project is under development ...
+Development of the project started on 2023/10/31, led by Justin Hsu.
